@@ -1,0 +1,1 @@
+[{"label":"Элементы терминала","selectable":false,"expanded":true,"children":[{"label":"Новый элемент","data":{"uuid":"f7f9d64a-7ac4-4a3e-b116-6250abb52e42","termSelector":{"start_x":0,"start_y":0,"end_x":0,"end_y":0},"comment":""},"elementType":"terminal"}],"elementType":"terminal"}]
